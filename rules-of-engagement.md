@@ -1,6 +1,6 @@
 # Personal Rules of Engagement
 
-**Name:** SAAYA SAJAN
+**Name:** Saaya Sajan
 **Date:** October 25, 2026
 
 ## 1. Authorization Statement
@@ -45,5 +45,5 @@ To shut the lab down: `docker rm -f juice-shop`
 Any findings will be recorded with the date, the URL tested, the technique used, and the result, and will be kept only in this repository.
 
 ## 8. Signature
-Signed: SAAYA SAJAN
+Signed: Saaya Sajan
 Date: October 25, 2026
